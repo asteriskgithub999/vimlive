@@ -1,2 +1,2 @@
-# vimlive.github.io
-A server that hosts vim.
+# Vim Live
+The idea is simple. Hosts vim through the net.
